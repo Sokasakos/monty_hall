@@ -1,6 +1,6 @@
 /**
  * 
- * @author Lukas Sogor
+ * Copyright © 2021, Lukas Sogor, All rights reserved.
  *
  */
 
