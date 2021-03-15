@@ -1,3 +1,8 @@
+/**
+ * 
+ * @author Lukas Sogor
+ *
+ */
 
 public class StayingPlayer extends Player {
 	

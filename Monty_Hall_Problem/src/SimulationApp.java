@@ -4,6 +4,7 @@
  * using both strategies in order to see the effect. We assume the showmaster always opens
  * the door with a goat behind it (otherwise the game would be immediately over).
  *
+ * @author Lukas Sogor
  */
 
 public class SimulationApp {

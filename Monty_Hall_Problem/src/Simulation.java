@@ -1,7 +1,7 @@
 /**
  * Simulates the execution of the Monty Hall problem (once).
  * 
- * @author lukas
+ * @author Lukas Sogor
  *
  */
 

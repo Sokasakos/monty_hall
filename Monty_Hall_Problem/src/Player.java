@@ -1,3 +1,9 @@
+/**
+ * 
+ * @author Lukas Sogor
+ *
+ */
+
 import java.util.Random;
 
 public abstract class Player {
